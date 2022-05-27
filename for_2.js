@@ -8,4 +8,6 @@ let lista = ["Banana", "Maça", "Pêra", "Manga", "Abacaxi"];
 //     console.log(lista[indice]);
 // }
 
-
+for(nome of lista){
+    console.log(nome)
+}
